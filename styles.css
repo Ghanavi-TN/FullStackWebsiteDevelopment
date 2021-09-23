@@ -1,0 +1,25 @@
+body{
+    background: url(https://images.unsplash.com/uploads/141103282695035fa1380/95cdfeef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2Vic2l0ZSUyMGhlYWRlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+    background-size: cover;
+      
+}
+#p1{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+    color: rgb(247, 168, 78);
+}
+h1{
+    color: rgb(204, 140, 21);
+}
+h2{
+    color: black;
+}
+#d1{
+    font-style: italic;
+    font-size:large;
+}
+#t1{
+    color: chartreuse;
+}
